@@ -15,6 +15,7 @@
     },
     "pageId": "Page1",
     "actionConfiguration": {
+      "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "body": "SELECT * FROM public.\"users\" LIMIT 10;",
@@ -34,9 +35,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-01-17T10:32:18Z"
+    "createdAt": "2024-01-17T10:04:26Z"
   },
   "id": "Page1_Query5",
   "deleted": false,
-  "gitSyncId": "65a7ab8c8a57791cec599212_65a7acb225142d7ac0b68f87"
+  "gitSyncId": "65a7a5088a57791cec59910b_65a7a62a8a57791cec599160"
 }
