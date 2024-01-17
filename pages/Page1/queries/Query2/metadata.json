@@ -2,7 +2,7 @@
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
-    "name": "Query1",
+    "name": "Query2",
     "datasource": {
       "name": "Users",
       "pluginId": "postgres-plugin",
@@ -34,9 +34,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-01-17T09:58:49Z"
+    "createdAt": "2024-01-17T09:59:58Z"
   },
-  "id": "Page1_Query1",
+  "id": "Page1_Query2",
   "deleted": false,
-  "gitSyncId": "65a7a4638a57791cec5990e0_65a7a4d98a57791cec5990fe"
+  "gitSyncId": "65a7a5088a57791cec59910b_65a7a51e8a57791cec59911a"
 }
